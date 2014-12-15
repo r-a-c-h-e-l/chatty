@@ -1,4 +1,4 @@
-var client = new WebSocket("ws://rachel@princesspeach.nyc:3000");
+var client = new WebSocket("ws://rachel.princesspeach.nyc:3000");
 
 var Client = function( ) {
   this.name = "";
